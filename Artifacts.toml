@@ -1,0 +1,288 @@
+[[TMscore]]
+arch = "aarch64"
+git-tree-sha1 = "c759b2d3145eab8ccd02bb55c6025988025f93fb"
+os = "macos"
+
+    [[TMscore.download]]
+    sha256 = "29ef9103faabf45d7ddc9b99fbd55da975e96089ed8828ff24ec418b16e1ee4b"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.aarch64-apple-darwin.tar.gz"
+[[TMscore]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f53cf1c9d68ff4457f6c02dd971068fa0b6a666e"
+libc = "glibc"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "39769544846ab7423aeea63c9ee24c2f1ba91857b49dcfe592fcc8887961fb6c"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[TMscore]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f90f273f3e993669daf321b18853324b3b305026"
+libc = "glibc"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "056c49c035a2148599aaa2f5d98bb290c30249bbbf60f9b5dbbf8d698070aecc"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[TMscore]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a0028fc899d133be9bfdb146d375fd9ad4b6ea01"
+libc = "musl"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "10e77a34f538e4bd3ceb1b8981c8fdba00bd846a3f15240796085f14bf3b817a"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.aarch64-linux-musl-cxx03.tar.gz"
+[[TMscore]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "14b4f2360d8f61893e7b3e3a85bc35c73351a46b"
+libc = "musl"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "66a4ea4e001637a5255a9ecb3aaa3af9f5460751fa7bcc5e587b695337168734"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.aarch64-linux-musl-cxx11.tar.gz"
+[[TMscore]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "909224e751def6b5a7a926f8fd8750b13789fa40"
+libc = "glibc"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "7ea9252c8f90cc836dd1949943f1237d8df9d34c09a9f079953a4a3e47a5a616"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[TMscore]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d9ac57aa0476f00418cdd34ae93c6a6f813f495e"
+libc = "glibc"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "e003c741077fbd5ce66c927c94976457f678b51658191aebd019172bbb0cf064"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[TMscore]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ebb58ad66b7462714579001f54553a8ba2a87fde"
+libc = "musl"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "4715e8668d83d508195126c4214c4166b3d6002b7b3458262a5b1c3745f2c0af"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.armv6l-linux-musleabihf-cxx03.tar.gz"
+[[TMscore]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "25742bf63303a97015c3148c431863c9e8ddcec4"
+libc = "musl"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "bc25d755cb8b87ef0af3fd0c5fe655181af4c04d1b06d5d4a1d4a3a0bd5a5c42"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.armv6l-linux-musleabihf-cxx11.tar.gz"
+[[TMscore]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "21432ad6762b8608a4737a00f48ab9f0691124f0"
+libc = "glibc"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "599394d29cb85a8cbcb715fa7a55e28a8cfef37bc0ff5f7506ad43f78fdfa4b1"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[TMscore]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "cb997495145ed258659a1cd555f99fafbb63491c"
+libc = "glibc"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "b9a492eb0c7d6a0179eb4d0ba26ad2ea23e3b12e21c643314f10d743cced4136"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[TMscore]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "f5160336a8e24e5c9ff4d435ac7a4bea8dfd33cc"
+libc = "musl"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "77733859b6240f5b29585c893fbe91980fb85fcba2a97982c6e236c09d058c1a"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.armv7l-linux-musleabihf-cxx03.tar.gz"
+[[TMscore]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e731f58a766d0def906803d13cd5d54b7e442e67"
+libc = "musl"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "b642bb38498b20f15ad6ac124cbfde46c1dc30c93c8499ae321b611db1c18ccd"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.armv7l-linux-musleabihf-cxx11.tar.gz"
+[[TMscore]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "cfd63ce270ef8cad1ec5749d4d229972f0f4d19c"
+libc = "glibc"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "9dcf70d098cdad7a528fb82c79020ec51583afc85049fcd643bbf0692caaaf01"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.i686-linux-gnu-cxx03.tar.gz"
+[[TMscore]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "dbbde9e6847718783e37992e92caa23594de746c"
+libc = "glibc"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "d4cd42d6c31c89742655390b2148181e160880f57325b8712841e7da6315379e"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.i686-linux-gnu-cxx11.tar.gz"
+[[TMscore]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "4f6c3fb852c7fdc1a200bef55c92f7337cffc793"
+libc = "musl"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "1415f7becefb609aa36453f958d30721d6b1e33e74fdcb4c5283059e23cb81be"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.i686-linux-musl-cxx03.tar.gz"
+[[TMscore]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2c4df0e16446515da33cb4ed67bdfa6cb863cab3"
+libc = "musl"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "d7f6e8d374dac2f72611513a7d98d2fbbab78cca26ff3aaa9a9783151dd536cb"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.i686-linux-musl-cxx11.tar.gz"
+[[TMscore]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5ce89024b877fa73a6ae638121e99ed94631dbca"
+os = "windows"
+
+    [[TMscore.download]]
+    sha256 = "aa99c8d0caf9ae820814e3c5d02d3533245bd5d11bab9a8d5e8c04cb2e8fdef6"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.i686-w64-mingw32-cxx03.tar.gz"
+[[TMscore]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ccd60d9561b9bcd027b4f65655c5c73d2720c464"
+os = "windows"
+
+    [[TMscore.download]]
+    sha256 = "8d8e1ace06aa5ffced415aff6308e903f296915e10d3ecd5a51a9396ad08559b"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.i686-w64-mingw32-cxx11.tar.gz"
+[[TMscore]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e078f50ecdeda895ce12a528328e470c61fff4ac"
+libc = "glibc"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "7bdbba237ee12ea736ee5dccd08fc7452a331658d054c7f0786ae20707e1de4e"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[TMscore]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "59019a0cc3d9ce5c9c039a6d018a5becd77bf5c4"
+libc = "glibc"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "04e5e18fbaff091d34a6ef629ee26388999f2b39a40c151bd5a9de56739bf67f"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[TMscore]]
+arch = "x86_64"
+git-tree-sha1 = "41914fec6f4d7f56ac3ca7a562b0c4327b3dcd63"
+os = "macos"
+
+    [[TMscore.download]]
+    sha256 = "003b82907d6d03e1dd652046b45251f2b95893637517a33748518c06e70d00f2"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.x86_64-apple-darwin.tar.gz"
+[[TMscore]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "0040fc7db068056188ff6b5b2b876d7e6beb3336"
+libc = "glibc"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "a71b199117f66160cff30c83859ea12495a2e47e474b1a6c38ef3d93b5cafcc2"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[TMscore]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5f9d8dffcc993006c87eb4d140d03b36ecaaa2b5"
+libc = "glibc"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "53b2cea6d2f564902693c3b37e4b013f4155b635f32232c75065767433ad6311"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[TMscore]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "727be43cf9ea336665ae20807ac3ca813a836ca9"
+libc = "musl"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "d070450ab8a91f03d591a9576ff266b901cc3a5ab5ac9d44a39f277d4084e6ae"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.x86_64-linux-musl-cxx03.tar.gz"
+[[TMscore]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8c703d9466f85ef5b9475db9d57e87d064d15617"
+libc = "musl"
+os = "linux"
+
+    [[TMscore.download]]
+    sha256 = "6cd954cca0ec7e19d31c862c962ee6961024c211885ad64587cf86bfde2e59e7"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.x86_64-linux-musl-cxx11.tar.gz"
+[[TMscore]]
+arch = "x86_64"
+git-tree-sha1 = "b2df85899118f9a2c97143070538388a846ee5e0"
+os = "freebsd"
+
+    [[TMscore.download]]
+    sha256 = "ea3f80a501fc06e819f1d9692227c1b2d83a63ad688e05300e463547374a2004"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.x86_64-unknown-freebsd.tar.gz"
+[[TMscore]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "96299de46e48a66fa651c2c2963f5afaa0e76235"
+os = "windows"
+
+    [[TMscore.download]]
+    sha256 = "0d1834c861be7cc2ec1941eb3dd0f1382b53512c924b0d66ecb9a68a32649848"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.x86_64-w64-mingw32-cxx03.tar.gz"
+[[TMscore]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "f50afa89b1cd0adb7ca6f686cbf4068139fba45b"
+os = "windows"
+
+    [[TMscore.download]]
+    sha256 = "a7b12da382e70471bd9045af25d66b06c9fbc7b1e434955b037ad1a4339cce47"
+    url = "https://github.com/JuliaBinaryWrappers/TMscore_jll.jl/releases/download/TMscore-v1.0.0+0/TMscore.v1.0.0.x86_64-w64-mingw32-cxx11.tar.gz"
